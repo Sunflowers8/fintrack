@@ -72,10 +72,10 @@ flutter build apk --release
 
 | Item | Cost |
 |---|---|
-| Development | $0 |
+| Development | $40000 |
 | Firebase Spark Plan | $0 |
 | Google Play Registration | $25 |
-| **Total** | **$25** |
+| **Total** | **$40025** |
 
 ---
 
