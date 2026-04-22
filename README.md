@@ -1,4 +1,3 @@
-cat > ~/fintrack/README.md << 'EOF'
 # 💰 FinTrack — Personal Budget Tracking & Expense Analytics Dashboard
 
 
